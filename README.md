@@ -46,6 +46,13 @@ This project explores camera calibration, pose estimation, and augmented reality
 ### 📌 Marker-less AR
 - ~500 ORB features detected reliably
 - Robust homography-based projection even under rotation
+  
+## Sample Results
+
+![checkerboard Axes](https://github.com/Bhumika0608/Camera-Calibration-and-AR/blob/main/checkerboard_axes_screenshot.png)
+![Virtual object 1](https://github.com/Bhumika0608/Camera-Calibration-and-AR/blob/main/virtual_object_screenshot.png)
+!(https://github.com/Bhumika0608/Camera-Calibration-and-AR/blob/main/feature_detection_screenshot.png)
+
 
 ✔  Requirements
 Build Tools
