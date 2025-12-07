@@ -1,6 +1,6 @@
 # Camera-Calibration-and-AR
 
-This project explores camera calibration, pose estimation, and augmented reality (AR) using both checkerboard markers and arbitrary textured surfaces. We used OpenCV for feature detection, intrinsic parameter estimation, real-time 3D projection, and robust feature matching. The goal was to align virtual 3D objects with real scenes accurately and stably.
+This project explores camera calibration, pose estimation, and augmented reality (AR) using both checkerboard markers and arbitrary textured surfaces. Used OpenCV for feature detection, intrinsic parameter estimation, real-time 3D projection, and robust feature matching. The goal was to align virtual 3D objects with real scenes accurately and stably.
 
 ---
 
