@@ -51,7 +51,7 @@ This project explores camera calibration, pose estimation, and augmented reality
 
 ![checkerboard Axes](https://github.com/Bhumika0608/Camera-Calibration-and-AR/blob/main/checkerboard_axes_screenshot.png)
 ![Virtual object 1](https://github.com/Bhumika0608/Camera-Calibration-and-AR/blob/main/virtual_object_screenshot.png)
-!(https://github.com/Bhumika0608/Camera-Calibration-and-AR/blob/main/feature_detection_screenshot.png)
+![Feature Detection](https://github.com/Bhumika0608/Camera-Calibration-and-AR/blob/main/feature_detection_screenshot.png)
 
 
 ✔  Requirements
